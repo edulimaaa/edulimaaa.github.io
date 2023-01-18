@@ -656,3 +656,31 @@ footer a:hover {
     margin-top: 3rem;
   }
 }
+
+@media (max-width: 500px) {
+  #home {
+    margin: 0;
+    padding: 0;
+    min-height: 75vh;
+  }
+  #home h1 {
+    font-size: 3rem;
+  }
+
+  #home p {
+    font-size: 1rem;
+  }
+  #div-social a {
+    margin: auto;
+    margin-top: 2rem;
+  }
+  #projects {
+    padding: 3rem 0;
+  }
+
+  .project {
+    width: 17rem;
+    padding: 1.5rem;
+    border: 1px solid #0099f8a1;
+  }
+}

@@ -674,6 +674,11 @@ footer a:hover {
     margin: auto;
     margin-top: 2rem;
   }
+
+  #experience-right {
+    padding-bottom: 6rem;
+  }
+
   #projects {
     padding: 3rem 0;
   }
